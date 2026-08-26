@@ -11,6 +11,7 @@ import {
 import { useHeroProgress } from "@/components/hero/HeroProgressContext";
 
 const NAV_LINKS = [
+  { href: "#home", label: "Home" },
   { href: "#products", label: "Products" },
   { href: "#performance", label: "Performance" },
   { href: "#compare", label: "Compare" },
