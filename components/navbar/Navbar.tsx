@@ -16,8 +16,8 @@ const NAV_LINKS = [
   { href: "#performance", label: "Performance" },
   { href: "#compare", label: "Compare" },
   { href: "#pricing", label: "Pricing" },
-  { href: "#about", label: "About" },
-  { href: "#partners", label: "Partners" },
+  { href: "#faq", label: "FAQ" },
+  { href: "#partners", label: "Partner" },
 ] as const;
 
 /** Progressive glass → near-black; solid by ~0.55, then stable. */
